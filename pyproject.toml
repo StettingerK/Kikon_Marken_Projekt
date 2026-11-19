@@ -1,0 +1,11 @@
+[project]
+name = "kikon-marken-projekt"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "msal>=1.39.0",
+    "office365-rest-python-client>=3.3.1",
+    "requests>=2.34.2",
+]

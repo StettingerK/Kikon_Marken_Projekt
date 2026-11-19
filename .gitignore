@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# BrandHunter Projektdateien & lokale Caches
+token_cache.bin
+temp_scans/
