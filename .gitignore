@@ -222,3 +222,6 @@ __marimo__/
 # BrandHunter Projektdateien & lokale Caches
 token_cache.bin
 temp_scans/
+
+# Sonstige Projektdokumente lokal behalten
+sontiges_zum_Projekt/
